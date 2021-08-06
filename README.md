@@ -1,4 +1,4 @@
-# COMP1531 Major Project
+# Flockr - COMP1531 Major Project
 
 ## Changelog
 
